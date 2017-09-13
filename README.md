@@ -2,7 +2,9 @@
 This repo includes the following files:
 
 run_analysis.R
+
 code_book.md
+
 README.md
 
 ## run_anlysis.R
